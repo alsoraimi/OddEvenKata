@@ -1,0 +1,6 @@
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\bin\Debug\OddEvenKata.dll
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\bin\Debug\OddEvenKata.pdb
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.csprojResolveAssemblyReference.cache
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.dll
+c:\users\abe\documents\visual studio 2015\Projects\OddEvenKata\OddEvenKata\obj\Debug\OddEvenKata.pdb
