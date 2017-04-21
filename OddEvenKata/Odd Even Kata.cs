@@ -16,15 +16,10 @@ namespace OddEvenKata
             if (x == 1 || x == 3)
                 return "odd";
             
-            for (int a = 2; a <= x / 2; a++)
+            for (int a = 3; a <= Math.Sqrt(x); a++)
             {
                 if (x % a == 0)
-                {
-                    
                     return "odd";
-
-                }
-               
             }
             return "prime";
 
